@@ -4,11 +4,31 @@
 
 Discover high-quality macOS apps built with native technologies (Swift, SwiftUI, AppKit) — fast, efficient, and light on your Mac's resources. No Electron bloat, just pure native performance.
 
-Maintained by [MacNative.io](https://macnative.io/?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=readme_intro), a curated directory of Mac apps.
-
-## 📬 Get Monthly Native App Picks in Your Inbox
-
-Get 5-10 handpicked native apps, hidden gems, and free/open-source picks delivered monthly. 📖 **[Subscribe →](https://nativemacapps.substack.com/)** — unsubscribe anytime.
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<h3>📬</h3>
+<strong>Join Newsletter</strong><br>
+<sub>Handpicked native apps.</sub>
+<hr>
+<a href="https://nativemacapps.substack.com/"><strong>Subscribe →</strong></a>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>🧭</h3>
+<strong>MacNative.io</strong><br>
+<sub>The full app directory.</sub>
+<hr>
+<a href="https://macnative.io/?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=readme_header"><strong>Visit →</strong></a>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>💡</h3>
+<strong>Submit an App</strong><br>
+<sub>Know a great one? Add it.</sub>
+<hr>
+<a href="../../issues/new?template=app-submission.md"><strong>Submit →</strong></a>
+</td>
+</tr>
+</table>
 
 **👨‍💻 Building a Mac app?** This list is for discovering apps — if you're looking to *launch* one, see [Awesome Mac Launch Platforms](https://github.com/macnative/awesome-mac-launch-platforms) for submission platforms, subreddits, and newsletters.
 
