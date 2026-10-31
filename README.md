@@ -1,7 +1,7 @@
 # Best Mac Apps (2026) — Native macOS Apps
 
 <!-- badges:start -->
-[![Stars](https://img.shields.io/github/stars/monkey-sking/awesome-native-macosx-apps?style=flat-square)](https://github.com/monkey-sking/awesome-native-macosx-apps/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/awesome-native-macosx-apps?style=flat-square)](https://github.com/monkey-sking/awesome-native-macosx-apps/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/awesome-native-macosx-apps?style=flat-square)](https://github.com/monkey-sking/awesome-native-macosx-apps/commits/main)
+[![Stars](https://img.shields.io/github/stars/monkey-sking/awesome-native-macosx-apps?style=flat-square)](https://github.com/monkey-sking/awesome-native-macosx-apps/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/awesome-native-macosx-apps?style=flat-square)](https://github.com/monkey-sking/awesome-native-macosx-apps/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/awesome-native-macosx-apps?style=flat-square)](https://github.com/monkey-sking/awesome-native-macosx-apps/commits/main) [![License](https://img.shields.io/github/license/monkey-sking/awesome-native-macosx-apps?style=flat-square)](https://github.com/monkey-sking/awesome-native-macosx-apps/blob/main/LICENSE)
 <!-- badges:end -->
 
 Discover high-quality macOS apps built with Swift, SwiftUI, and AppKit — fast, lightweight, and made for your Mac.
